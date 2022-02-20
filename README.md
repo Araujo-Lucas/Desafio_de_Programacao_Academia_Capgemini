@@ -10,7 +10,7 @@ Primeiramente é preciso instalar a IDE NetBeans por meio do link: https://netbe
 
 Em seguida é preciso fazer o Download ZIP do projeto ou a clonagem do repositório;
 
-Por fim os 3 arquivos contendo as questões devem ser rodados individualmente clicando com o botão direito do mouse seguido do comando Run File (Shift+F6).
+Por fim os 3 arquivos da pasta src, contendo as questões, devem ser rodados individualmente clicando com o botão direito do mouse seguido do comando Run File (Shift+F6).
 
 Assim o usuário deve seguir os comandos do terminal para obter as saídas desejadas, como exemplificado abaixo:
 
